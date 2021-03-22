@@ -1,0 +1,1 @@
+<footer  style="height: 50px; line-height: 50px; background-color: black; color: #fff; text-align: center; margin-top: 800px;">copyright hanamoto.</footer>
